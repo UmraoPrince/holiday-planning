@@ -74,11 +74,14 @@ Open `index.html` in your browser.
 
 ---
 
-## 🌐 Live Demo
+---
 
-https://umraoprince.github.io/holiday-planning/
+## 🌐 Deployment
+
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live_Site-success?style=for-the-badge&logo=github)](https://umraoprince.github.io/holiday-planning/)
 
 ---
+
 
 ## 👨‍💻 Author
 
