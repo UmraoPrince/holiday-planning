@@ -133,10 +133,6 @@ Deploy this static site for free on any of these platforms:
 
 ---
 
-## 👨‍💻 Author & Credits
-
-**Developed by:** code worrior  
-**Role:** students from [code worrior](https://www.codeworrior.org)
 
 <div align="center">
 
@@ -144,7 +140,7 @@ Deploy this static site for free on any of these platforms:
 
 ### ⭐ If you like this project, give it a star
 
-[![GitHub stars](https://img.shields.io/github/stars/UmraoPrince/holiday-planner-?style=social)](https://github.com/UmraoPrince/holiday-planner)
+[![GitHub stars](https://img.shields.io/[github/stars/UmraoPrince/holiday-planner-](https://umraoprince.github.io/holiday-planning/)?style=social)](https://github.com/UmraoPrince/holiday-planner)
 
 </div>
 
